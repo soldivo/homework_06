@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+table,
+tr,
+td {
+  border-spacing: 0;
+  border: 3px solid black;
+}
+
+tr {
+  color: transparent;
+}
+
+table img {
+  vertical-align: middle;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+table {
+  width: 50%;
+}
+
+.mondrian__col-red {
+  background-color: red;
+}
+
+.mondrian__col-yellow {
+  background-color: yellow;
+}
+
+.mondrian__col-blck {
+  background-color: black;
+}
+
+.mondrian__col-blue {
+  background-color: blue;
+}
